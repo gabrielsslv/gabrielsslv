@@ -11,7 +11,7 @@ Hard Skills:
 - Frontend:
 > Angular
 
--DevOps
+- DevOps
 > Kubernetes
 > Docker
 > AWS
