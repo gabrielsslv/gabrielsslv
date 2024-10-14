@@ -5,7 +5,8 @@ Tenho experiência com desenvolvimento de software fullstack e devops, trabalhei
 Hard Skills:
 - Backend:
 > NodeJS com Express
-> MySQL e Sequelize
+> Spring Boot
+> MySQL
 > Typescript
 
 - Frontend:
