@@ -1,18 +1,13 @@
 ### Hi there 👋, meu nome é Gabriel
 
-/𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
-│
-├── /𝐁𝐈𝐎
-│    ├── Systems analysis and development
-│    └── Fullstack Software Developer
-│
-├── /𝐒𝐓𝐀𝐂𝐊
-│    ├── Angular
-│    ├── Java
-│    ├── Spring Boot
-│    ├── Javascript
-│    ├── Typescript
-│    ├── NodeJS
-│    ├── K8s
-│    ├── Docker
-│    ├── Python
+Tenho experiência com desenvolvimento de software fullstack e devops, trabalhei com tecnologias como NodeJS, Angular, Kubernetes e MySQL. Tenho experiência com todo o fluxo e metodologia de desenvolvimento ágil e com a estrutura e versionamento de código com gitlab.
+Sou desenvolvedor de software fullstack com 2 anos de experiência.
+
+## Hard Skills:
+- NodeJS com Express
+- Java e Spring Boot
+- MySQL
+- Typescript
+- Angular
+- Kubernetes
+- Docker
