@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python`**
 
-Sou desenvolvedor de software fullstack com experiência em Angular, NodeJS, Django e MySQL, também tenho como foco práticas e conhecimentos DevOps usando tecnologias como Kubernetes e Docker.
+Analista de infra com foco em devops. Experiência com desenvolvimento fullstack, redes e devops.
 
 <p align="left">
     <a href="https://github.com/gabrielsslv=repositories&sort=stargazers">
